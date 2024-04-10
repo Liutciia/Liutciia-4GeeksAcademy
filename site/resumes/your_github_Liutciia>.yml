@@ -1,0 +1,117 @@
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Liutciia
+    last_name: Salikhova Safina
+    
+    # Define yourself in 4-5 words
+    motto: Motivated, analytical, committed, conscientious, eager.
+    
+    # Focus
+    focus: Data science
+    
+    # You have 1 paragraph to make a great impression, summarize your career
+    summary: |
+      “Skilled specialist graduated in International Business and Economics, with 9 years 
+      of experience in foreign trade, logistics, banking and finance. Resilient, detail-oriented, 
+      and able to work under extreme pressure in a team environment. Committed to successful management 
+      of multiple simultaneous projects, strict adherence to deadline requirements.”
+
+  
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your_github_Liutciia>.yml>
+
+    # Contact Information
+    email: luciasalikhova@gmail.com #optional
+    phone: 648 27 64 09 #optional
+    Linkedin: linkedin.com/in/liutciia-salikhova/6203b49b
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: Liutciia
+    
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    # Languages you speak, levels include: Native, Professional
+    languages:
+      - idiom: English
+        level: Advanced
+
+      - idiom: Russian
+        level: Native
+
+      - idiom: Spanish
+        level: Advanced
+
+    # Interests or hobbies
+    interests:
+      - item: Travelling
+
+      - item: Interior design
+
+      - item: Dancing
+
+# Your previous education
+education:
+    - degree: BSc in International business
+      university: University of Valencia
+      time: 2015 - 2019
+      
+
+    - degree: BSc in Economics and Management
+      university: Kazan National Research Technological University
+      time: 2002 - 2007
+     
+
+# Your previous job experiences or volunteer
+experiences:
+    - role: Administrative assistant
+      time: 2022 - Present
+      company: Hospicare Consulting, Valencia
+      details: |
+        Support and translation for foreign patients, e-billing, doubts issues,
+        work with insurance companies and medical staff
+
+    - role: Purchasing Manager
+      time: 2019 - 2020
+      company: Same Ship Suppliers, Valencia
+      details: |
+       Continuous supply without stockouts, work with suppliers, documentation, internal inventory
+
+    - role: Senior Economist
+      time: 2007 - 2013
+      company: JSC AIKB Tatfondbank, Kazan
+      details: |
+       Internal and tax accounting with operations with securities, financial analysis, 
+       report generation, contract preparation
+
+
+# Your project portfolio
+projects:
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: Real Estate Data Cleanup
+        # optional
+        Link: https://github.com/4GeeksAcademy/Liutciia-realestate-datacleanup-exercise
+
+      - title: Calculus and Algebra problems with Python
+        # optional
+        Link: https://github.com/Liutciia/calculus-and-algebra-problems-with-python.git
+
+
+skills:
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+     
